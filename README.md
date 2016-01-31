@@ -1,2 +1,5 @@
 # psychic-octo-giggle
-## hello mate how's things
+Hi Humans, 
+
+Hubot here, I like Node.js
+I'vehad tacos on the moon and find them inferior to Earth tacos.
